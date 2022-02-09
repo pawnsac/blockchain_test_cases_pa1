@@ -6,7 +6,7 @@ Inside the skeleton-code folder in your server, run the following commands in th
 
       git clone https://github.com/pawnsac/blockchain_test_cases_pa1
       unzip blockchain_test_cases_pa1/test_cases_pa1.zip
-      cp -r blockchain_test_cases_pa1/test_cases_pa1/* .
+      cp -r test_cases_pa1/* .
       
 ## To test your mining or validating part of the assignment, inside the skeleton-code folder, run the following:
 
